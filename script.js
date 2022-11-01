@@ -100,7 +100,7 @@ var ringer = {
     $r.ctx.stroke();
     
     // label
-    $r.ctx.fillStyle = "#ffffff";
+    $r.ctx.fillStyle = "#641e16";
    
     $r.ctx.font = '12px Helvetica';
     $r.ctx.fillText(label, 0, 23);
